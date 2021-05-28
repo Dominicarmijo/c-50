@@ -1,0 +1,36 @@
+h1{
+    color: rgb(17, 120, 189);   
+}
+*{
+    border:solid;
+}
+
+.header{
+    background-color: rgb(176, 234, 241);
+    display: flex;
+    justify-content: space-between;
+
+}
+
+
+.item{
+    background-color: rgb(180, 154, 204);
+}
+
+
+.games{
+    background-color: aqua;
+display: flex;
+justify-content: space-evenly;
+}
+
+
+.play{
+    background-color: blues;
+}
+
+h2,p{
+ align-items: center;
+ justify-content: center;
+ text-align: center;
+}
